@@ -10,7 +10,7 @@ I'm a passionate software engineer and a Master's student in Computer Science at
 - Designing intuitive and user-friendly interfaces with ReactJS and Android.
 - Delivering efficient database solutions using MySQL, PostgreSQL, and SQL Server.
 
-## 🚀 Current Focus:**
+## 🚀 Current Focus:
 
 - Developing advanced projects in React, Next.js, Java Spring Boot and Android.
 - Diving deeper into AI technologies like LLMs, LLM agents and NLP techniques.
